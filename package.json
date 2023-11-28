@@ -61,6 +61,7 @@
     "./examples/vue/basic",
     "./examples/vue/column-ordering",
     "./examples/vue/column-pinning",
+    "./examples/vue/column-resizing",
     "./examples/vue/sorting",
     "./examples/vue/pagination-controlled",
     "./examples/vue/pagination",
